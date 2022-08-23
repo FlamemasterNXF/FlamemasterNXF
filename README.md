@@ -2,6 +2,8 @@
 I'm just a cool guy who likes to develop stuff for fun :D <br>
 If you wanna talk more feel free to contact me on Discord, my tag is Flamemaster#9696
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **FlamemasterNXF/FlamemasterNXF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
