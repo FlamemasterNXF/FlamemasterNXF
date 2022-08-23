@@ -6,7 +6,7 @@ My hobby outside of programming is running. <br>
 Curent project: Sea, my second programming language. See my progress here: https://github.com/FlamemasterNXF/Sea
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=FlamemasterNXF&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamemasterNXF&hide=makefile&langs_count=6&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamemasterNXF&hide=makefile,css,html&langs_count=6&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **FlamemasterNXF/FlamemasterNXF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
