@@ -1,7 +1,7 @@
 ### Hey, I'm Flame :)
 I'm a highschool student who likes to develop in his free time. <br>
-My main projects include Incremental Games and Programming Languages. <br>
-My hobby outside of programming is running. <br>
+I am pretty good at JavaScript, C#, and Python. <br>
+I'm always happy to chat! Contact me on Discord, my handle is @flamemasternxf :)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=FlamemasterNXF&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamemasterNXF&hide=makefile,css,html&langs_count=6&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
